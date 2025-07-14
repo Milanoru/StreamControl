@@ -1,9 +1,4 @@
-This is modified StreamControl from https://farpnut.net/streamcontrol/ for me & my circle to use 
+This is modified StreamControl from https://farpnut.net/streamcontrol/ modified to my personal use
 
-Rough how-to:
-1. Place StreamControl.exe in it's own directory (shouldn't actually matter where)
-2. Run it. It should autodetect your XSplit installation if you installed XSplit to the default location. If not, please click configure and set it there.
-3. Load XSplit and set up the scene. Add the SWF overlays you require.
-4. Done.
 
 
